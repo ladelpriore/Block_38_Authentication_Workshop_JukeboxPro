@@ -1,4 +1,4 @@
-# Jukebox Pro
+# Block 38 Authentication, Workshop: Jukebox Pro
 
 Introducing Jukebox Pro, the successor to Jukebox! Users will now need to make an account and log in before they are able to manage their playlists.
 
